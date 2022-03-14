@@ -1,0 +1,18 @@
+{
+  "name": "linting-formatting-rules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "npx husky install",
+    "prettier": "prettier . --write --ignore-unknown"
+  },
+  "lint-staged": {
+    "**/*": "npm run prettier"
+  },
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "lint-staged": "^12.3.5",
+    "prettier": "^2.5.1"
+  }
+}
