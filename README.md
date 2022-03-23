@@ -1,3 +1,3 @@
 # Linting - Formatting Rules
 
-A configuration for **formatting rules linting**.
+A configuration for **Formatting Rules Linting**.
