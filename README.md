@@ -8,7 +8,7 @@ This project aims to be a simple configuration for **Formatting Rules Linting**,
 
 ## Links
 
-**[`Implementation`](https://alexbleggi.netlify.app/docs/projects/linting-formatting-rules/implementation)**
+**[`Website`](https://alexbleggi.netlify.app/docs/projects/linting-formatting-rules)** **[`Implementation`](https://alexbleggi.netlify.app/docs/projects/linting-formatting-rules/implementation)**
 
 ## Built With
 
