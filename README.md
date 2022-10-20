@@ -10,7 +10,7 @@ This project aims to be a simple configuration for **Formatting Rules Linting**,
 
 **[`Website`](https://alexbleggi.netlify.app/docs/projects/linting-formatting-rules)** **[`Implementation`](https://alexbleggi.netlify.app/docs/projects/linting-formatting-rules/implementation)**
 
-## Built With
+## [Built With](https://alexbleggi.netlify.app/docs/projects/linting-formatting-rules/#built-with)
 
 <div style="display: inline_block">
   <a href="https://editorconfig.org/" target="_blank">
